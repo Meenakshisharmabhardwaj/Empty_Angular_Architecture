@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "MSDatingApp": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "MSDatingApp"
+    }
+  },
+  "defaultProject": "MSDatingApp",
+  "cli": {
+    "analytics": "5868ad57-910e-463b-89a0-e294e70a2a9b"
+  }
 }
